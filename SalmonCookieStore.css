@@ -1,0 +1,58 @@
+body {
+    background:white;
+    }
+
+h1 {
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-style: oblique;
+   }
+h2 {
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 40px;
+   }
+
+   h3 {
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+   }
+   h6 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 35px;
+   }
+
+  p {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;    
+  }
+
+  thead {
+    background: #888;
+    text-emphasis: bold;
+    font-size: 2 cm;
+  }
+
+  th {
+    padding: 20px;
+    background: #888;
+    text-emphasis: bold;
+    color: blue;
+    border: solid 1px black;
+  }
+  
+  td {
+    padding: 20px;
+    
+    border: solid 1px black;
+  }
